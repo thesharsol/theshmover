@@ -13,7 +13,7 @@ npm i theshmover
 ### CDN
 
 ``` javascript
-<script src="https://cdn.jsdelivr.net/npm/theshtify@1.0.0/"> </script>
+<script src="https://cdn.jsdelivr.net/npm/theshmover@1.0.0/"> </script>
 ```
 
 ### ES6

@@ -1,0 +1,29 @@
+{
+  "name": "theshmover",
+  "version": "1.0.0",
+  "description": "thover is a library that lets you make any element on your page movable just by mentioning the 't_movable_box' class.",
+  "main": "theshmover.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesharsol/theshmover.git"
+  },
+  "keywords": [
+    "movable",
+    "mover",
+    "absolute",
+    "box",
+    "move"
+  ],
+  "author": "BEBE EPEE IVAN SAMPI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thesharsol/theshmover/issues"
+  },
+  "homepage": "https://github.com/thesharsol/theshmover#readme"
+}
