@@ -1,6 +1,6 @@
 {
   "name": "theshmover",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "thover is a library that lets you make any element on your page movable just by mentioning the 't_movable_box' class.",
   "main": "theshmover.js",
   "directories": {
